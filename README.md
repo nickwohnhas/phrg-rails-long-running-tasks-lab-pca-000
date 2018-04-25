@@ -28,3 +28,4 @@ artist names
 
 [FiveThirtyEight]: https://github.com/fivethirtyeight/data/blob/master/classic-rock/classic-rock-song-list.csv
 [CC]: http://creativecommons.org/licenses/by/4.0/
+<p data-visibility='hidden'>PHRG Long-Running Tasks Lab</p>
